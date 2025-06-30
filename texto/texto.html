@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Informe Anual de Tendencias Tecnológicas 2025</title>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <!-- importar tipografia -->
+     <link rel="stylesheet" href="../fonts/stylesheet.css">
+     <link rel="stylesheet" href="../fonts-accesibilidad/fonts/stylesheet.css">
+
 
     <style>
         /* Estilos Generales */
@@ -15,9 +18,12 @@
         
         
         body {
-            font-family: sans-serif; /* Deja el valor por defecto del navegador o un genérico simple */
+              /*  font-family: 'OpenDyslexic', sans-serif; */ 
+              /* Deja el valor por defecto del navegador o un genérico simple */
              /* PRUEBA: line-height */
-            line-height: 1.5em;
+            
+             font-family: sans-serif;
+             line-height: 1.5em;
              margin: 0;
             padding: 0;
             background-color: #f8f8f8;
@@ -59,15 +65,18 @@
             margin: 0;
           /* PRUEBA: font-family */
           font-size: clamp(1.6rem, 4dvw, 3rem);
-           
-          line-height: 1.2;
+        line-height: 1.2;
           text-transform: uppercase;
+          letter-spacing: 0.03em;
+          text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+          font-family: 'Cocogoose ';
             
         }
 
         .header__subtitle {
             margin-top: 10px;
           /* PRUEBA: font-size */
+
             opacity: 0.9;
         }
 
@@ -129,14 +138,14 @@
             /* PRUEBA: font-size */
             font-size: 2.5rem;
             line-height: 1;
-            font-weight: 400;
+            /* font-weight: 400; */
             font-variant: small-caps;
-
-            
             margin-bottom: 25px;
              /* PRUEBA: text-align */
             border-bottom: 2px solid #007bff;
             padding-bottom: 10px;
+            text-shadow: 2px 2px 5px #000;
+            font-family: 'Ashley',serif;
 
         }
 
@@ -298,18 +307,22 @@
         .align-vertical{
             vertical-align: top;
             font-size: 3rem;
+            font-family: 'Ashley';
         }
 
         .caja-demo img{
             vertical-align: top;
         }
 
+        .text-decoration{
+            text-decoration: underline 8px greenyellow;
+        }
     </style>
 </head>
 <body>
     <header class="header">
         <div class="header__container">
-            <h1 class="header__title">Informe Anual de Tendencias Tecnológicas 2025</h1>
+            <h1 class="header__title text-decoration">Informe Anual de Tendencias Tecnológicas 2025</h1>
             <p class="header__subtitle">Análisis Profundo del Futuro Digital</p>
         </div>
     </header>

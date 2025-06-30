@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'CocogooseProTrial';
+    src: url('CocogooseProTrial-Regular.woff2') format('woff2'),
+        url('CocogooseProTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CocogooseProTrial';
+    src: url('CocogooseProTrial-Light.woff2') format('woff2'),
+        url('CocogooseProTrial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial';
+    src: url('CocogooseProTrial-LightItalic.woff2') format('woff2'),
+        url('CocogooseProTrial-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CocogooseProLetterpressTrial';
+    src: url('CocogooseProLetterpressTrial-Regular.woff2') format('woff2'),
+        url('CocogooseProLetterpressTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ashley';
+    src: url('Ashley.woff2') format('woff2'),
+        url('Ashley.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('CocogooseProTrial-Semilight.woff2') format('woff2'),
+        url('CocogooseProTrial-Semilight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ';
+    src: url('CocogooseProTrial-SemilightItalic.woff2') format('woff2'),
+        url('CocogooseProTrial-SemilightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans.woff2') format('woff2'),
+        url('BabelSans.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial';
+    src: url('CocogooseProTrial-Italic.woff2') format('woff2'),
+        url('CocogooseProTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-BoldOblique.woff2') format('woff2'),
+        url('BabelSans-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-Oblique.woff2') format('woff2'),
+        url('BabelSans-Oblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CocogooseProTrial';
+    src: url('CocogooseProTrial-Bold.woff2') format('woff2'),
+        url('CocogooseProTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CocogooseProTrial Darkmode';
+    src: url('CocogooseProTrial-Darkmode.woff2') format('woff2'),
+        url('CocogooseProTrial-Darkmode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial Darkmode';
+    src: url('CocogooseProTrial-DarkmodeItalic.woff2') format('woff2'),
+        url('CocogooseProTrial-DarkmodeItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial';
+    src: url('CocogooseProTrial-BoldItalic.woff2') format('woff2'),
+        url('CocogooseProTrial-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-Bold.woff2') format('woff2'),
+        url('BabelSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial';
+    src: url('CocogooseProTrial-Italic.woff2') format('woff2'),
+        url('CocogooseProTrial-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CocogooseProTrial';
+    src: url('CocogooseProTrial-Bold.woff2') format('woff2'),
+        url('CocogooseProTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cocogoose ProTrial';
+    src: url('CocogooseProTrial-BoldItalic.woff2') format('woff2'),
+        url('CocogooseProTrial-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-Bold.woff2') format('woff2'),
+        url('BabelSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-Oblique.woff2') format('woff2'),
+        url('BabelSans-Oblique.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans.woff2') format('woff2'),
+        url('BabelSans.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabelSans';
+    src: url('BabelSans-BoldOblique.woff2') format('woff2'),
+        url('BabelSans-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
